@@ -14,6 +14,10 @@
   "test-resource": {
     "basic": "test-metering-plan",
     "standard": "test-metering-plan"
+  },
+  "blockchain-service": {
+    "basic": "basic-bc-metering-plan",
+    "standard": "basic-bc-metering-plan"
   }
 }
 

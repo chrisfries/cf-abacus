@@ -17,5 +17,9 @@
   },
   "test-db": {
     "basic": "test-db-basic"
+  },
+  "blockchain-service": {
+    "basic": "blockchain-pricing-basic",
+    "standard": "blockchain-pricing-basic"
   }
 }
