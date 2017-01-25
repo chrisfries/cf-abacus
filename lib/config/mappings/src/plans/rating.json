@@ -15,8 +15,8 @@
     "basic": "test-rating-plan",
     "standard": "test-rating-plan-standard"
   },
-  "blockchain-service": {
-    "basic": "blockchain-rating-plan",
-    "standard": "blockchain-rating-plan"
+  "baas": {
+    "basic": "baas-rating-plan",
+    "standard": "baas-rating-plan"
   }
 }

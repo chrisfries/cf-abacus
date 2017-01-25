@@ -18,8 +18,8 @@
   "test-db": {
     "basic": "test-db-basic"
   },
-  "blockchain-service": {
-    "basic": "blockchain-pricing-basic",
-    "standard": "blockchain-pricing-basic"
+  "baas": {
+    "basic": "baas-pricing-basic",
+    "standard": "baas-pricing-basic"
   }
 }
